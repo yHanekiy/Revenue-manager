@@ -1,0 +1,84 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Yura\AppData\Local\JetBrains\Rider2023.3\resharper-host\temp\Rider\vAny\CoverageData\_Project.689759956\Snapshot\snapshot.utdcvr</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=09c3b6fc_002Da61e_002D4f32_002D80b7_002D172391ef4d48/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddClientPhysicalToBase_Should_Add_ClientPhysical_To_Base" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreaterContract_Should_Add_Contract_To_Base&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1ccbb294_002D2914_002D43d7_002Db973_002Ddd8ad5609f89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PayForSubscription_Should_Update_Payment_Subscription_In_Base" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Update_Payment_Subscription_In_Base&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25851504_002D6ab0_002D4b38_002D9d14_002D416ac3d71628/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PayForSubscription_Should_Update_Payment_Subscription_In_Base #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Update_Payment_Subscription_In_Base&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_ClientNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_ClientNotFound_Because_Delete&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_NotPositiveValueForPayment&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_SubscriptionIsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_EndOfSubscription&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_PaymentAlreadyWasInThisPeriod&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_TimeToPayExpired&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_NotOwnerOfSubscription&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Return_NotFullPriceForMonth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestForClientService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=33e589b8_002Dc050_002D4a13_002D9e17_002D5dc9cb416523/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreaterContract_Should_Add_Contract_To_Base" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_ClientNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_ClientNotFound_Because_Deleted&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Add_Contract_To_Base&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_NotCorrectDataFormat&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_NotEnoughTimeContract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_TooMuchTimeContract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_NotPossibleSupport&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_NotPossibleBuy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_SoftwareIsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.CreateContract_Should_Return_AlreadyHaveUnpaidContractWithThisProduct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.MakePaymentForContract_Should_Make_Payment_For_Contract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestForClientService.UpdateClientFirmInBase_Should_Update_ClientFirm_In_Base&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestForClientService.DeleteClientPhysicalFromBase_Should_Delete_ClientPhysical_From_Base&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.MakePaymentForContract_All_Should_Make_Payment_For_Contract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.MakePaymentForContract_NotAll_Should_Make_Payment_For_Contract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.FinishContractPayment_All_Should_Make_Payment_For_Contract&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7d98a8f1_002Ddbc8_002D4bdf_002Dac73_002D74867208763c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PayForSubscription_Should_Update_Payment_Subscription_In_Base #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Update_Payment_Subscription_In_Base&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=95eacea1_002Dc428_002D4f37_002Dba04_002Dd46d80f1420a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PayForSubscription_Should_Update_Payment_Subscription_In_Base #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Update_Payment_Subscription_In_Base&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a19233ba_002D82ca_002D424b_002Dad88_002De961580140a1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FinishContractPayment_All_Should_Make_Payment_For_Contract #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForRevenueService.RevenueCalculation_Should_Return_RevenueDTO&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForRevenueService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Add_Subscribe_To_Base&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestForClientService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Add_Subscription_To_Base&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Return_ClientNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Return_ClientNotFound_Because_Deleted&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Return_AlreadyHaveUnpaidContractWithThisProduct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Return_SoftwareIsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Return_NotCorrectRenewalPeriod_Too_Short&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Return_NotCorrectRenewalPeriod_Too_Long&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.Subscribe_Should_Return_NotPositiveValueForPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Update_Payment_Subscription_In_Base&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae0dab83_002Daef3_002D4b3c_002D97c1_002De44bb4b19168/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FinishContractPayment_All_Should_Make_Payment_For_Contract" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForContractService.FinishContractPayment_All_Should_Make_Payment_For_Contract&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C8FF991-2C88-41A3-86A9-BE6832DD8DF4::net8.0::ProjectTests.TestsForSubscriptionsService.PayForSubscription_Should_Update_Payment_Subscription_In_Base&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
